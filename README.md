@@ -1,2 +1,2 @@
-# Python-ML-and-C
+# Python Machine Learning and C++
 Applying a machine learning algorithm to biological datasets and writing basic C++ functions, as part of assessed coursework for a module in Advanced Programming.
